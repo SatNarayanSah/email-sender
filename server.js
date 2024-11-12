@@ -3,6 +3,7 @@ const express = require('express');
 const nodemailer = require('nodemailer');
 const KTMClgEmailTemplate = require('./email-templates/ktm-clg-template');
 const ReplyToDevendraEmailTemplate = require('./email-templates/ReplyToDevandraEmail');
+const sponsorsEmailTemplate = require('./email-templates/sponsorsEmailTemplate');
 
 require('dotenv').config();
 
@@ -30,7 +31,7 @@ app.post('/send-emails', async (req, res) => {
 
     try {
         const emailPromises = emails.map(({ email, name }) => {
-            const emailTemplate = ReplyToDevendraEmailTemplate(name);
+            const emailTemplate = sponsorsEmailTemplate();
 
             const mailOptions = {
                 from: `Janakpur Hackathon <${process.env.USER}>`,    // Sender address
