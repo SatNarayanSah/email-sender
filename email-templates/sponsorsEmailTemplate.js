@@ -211,14 +211,10 @@ const sponsorsEmailTemplate = () => {
       }
     }
   </style>
-
-
-
   <!--[if !mso]><!-->
   <link href="https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" rel="stylesheet" type="text/css">
   <!--<![endif]-->
-
 </head>
 
 <body class="clean-body u_body"
@@ -232,9 +228,6 @@ const sponsorsEmailTemplate = () => {
       <tr style="vertical-align: top">
         <td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
           <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color: #ecf0f1 !important;"><![endif]-->
-
-
-
           <!--[if gte mso 9]>
       <table cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto;min-width: 320px;max-width: 600px;">
         <tr>
@@ -242,7 +235,6 @@ const sponsorsEmailTemplate = () => {
       <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width: 600px;">
         <v:fill type="frame" src="https://cdn.templates.unlayer.com/assets/1721239988259-Group%2015.png" /><v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
       <![endif]-->
-
           <div class="u-row-container"
             style="padding: 0px;background-image: url('https://neelgai.vercel.app/email-images/image-8.png');background-repeat: no-repeat;background-position: center top;background-color: transparent !important">
             <div class="u-row"
@@ -250,7 +242,6 @@ const sponsorsEmailTemplate = () => {
               <div
                 style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent !important;">
                 <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-image: url('https://neelgai.vercel.app/email-images/image-8.png');background-repeat: no-repeat;background-position: center top;background-color: transparent !important;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent !important;"><![endif]-->
-
                 <!--[if (mso)|(IE)]><td align="center" width="600" class="v-col-background-color" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
                 <div class="u-col u-col-100"
                   style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
@@ -259,7 +250,6 @@ const sponsorsEmailTemplate = () => {
                     <div
                       style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;">
                       <!--<![endif]-->
-
                       <table id="u_content_heading_1" style="font-family:'Raleway',sans-serif;" role="presentation"
                         cellpadding="0" cellspacing="0" width="100%" border="0">
                         <tbody>
@@ -291,7 +281,6 @@ const sponsorsEmailTemplate = () => {
                           </tr>
                         </tbody>
                       </table>
-
                       <table id="u_content_image_1" style="font-family:'Raleway',sans-serif;" role="presentation"
                         cellpadding="0" cellspacing="0" width="100%" border="0">
                         <tbody>
@@ -318,7 +307,6 @@ const sponsorsEmailTemplate = () => {
                           </tr>
                         </tbody>
                       </table>
-
                       <table id="u_content_button_1" style="font-family:'Raleway',sans-serif;" role="presentation"
                         cellpadding="0" cellspacing="0" width="100%" border="0">
                         <tbody>
@@ -338,12 +326,10 @@ const sponsorsEmailTemplate = () => {
                                 </a>
                                 <!--[if mso]></td></tr></table><![endif]-->
                               </div>
-
                             </td>
                           </tr>
                         </tbody>
                       </table>
-
                       <table id="u_content_heading_2" style="font-family:'Raleway',sans-serif;" role="presentation"
                         cellpadding="0" cellspacing="0" width="100%" border="0">
                         <tbody>
@@ -375,7 +361,6 @@ const sponsorsEmailTemplate = () => {
                           </tr>
                         </tbody>
                       </table>
-
                       <table id="u_content_text_1" style="font-family:'Raleway',sans-serif;" role="presentation"
                         cellpadding="0" cellspacing="0" width="100%" border="0">
                         <tbody>
@@ -408,18 +393,12 @@ const sponsorsEmailTemplate = () => {
               </div>
             </div>
           </div>
-
           <!--[if gte mso 9]>
       </v:textbox></v:rect>
     </td>
     </tr>
     </table>
     <![endif]-->
-
-
-
-
-
           <!--[if gte mso 9]>
       <table cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto;min-width: 320px;max-width: 600px;">
         <tr>
@@ -428,157 +407,122 @@ const sponsorsEmailTemplate = () => {
         <v:fill type="frame" src="https://cdn.templates.unlayer.com/assets/1721240673031-Group%2015c.png" /><v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
       <![endif]-->
 
-          <div class="u-row-container"
-            style="padding: 0px;background-image: url('https://neelgai.vercel.app/email-images/image-9.png');background-repeat: no-repeat;background-position: center top;background-color: transparent !important">
-            <div class="u-row"
-              style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent !important;">
+      <div class="u-row-container"
+      style="padding: 0px;background-image: url('https://neelgai.vercel.app/email-images/image-11.png');background-repeat: no-repeat;background-position: center top;background-color: transparent !important">
+      <div class="u-row"
+        style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent !important;">
+        <div
+          style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent !important;">
+          <!--[if (mso)|(IE)]></td><![endif]-->
+          <!--[if (mso)|(IE)]><td align="center" width="300" class="v-col-background-color" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
+          <div id="u_column_27" class="u-col u-col-50"
+            style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+            <div class="v-col-background-color"
+              style="height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+              <!--[if (!mso)&(!IE)]><!-->
               <div
-                style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent !important;">
-                <!--[if (mso)|(IE)]></td><![endif]-->
-                <!--[if (mso)|(IE)]><td align="center" width="300" class="v-col-background-color" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
-                <div id="u_column_21" class="u-col u-col-50"
-                  style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
-                  <div class="v-col-background-color"
-                    style="height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
-                    <!--[if (!mso)&(!IE)]><!-->
-                    <div
-                      style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
-                      <!--<![endif]-->
+                style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+                <!--<![endif]-->
 
-                      <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
-                        cellspacing="0" width="100%" border="0">
-                        <tbody>
+                <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
+                  cellspacing="0" width="100%" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="v-container-padding-padding"
+                        style="overflow-wrap:break-word;word-break:break-word;padding:3px 10px 10px;font-family:'Raleway',sans-serif;"
+                        align="left">
+
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
                           <tr>
-                            <td class="v-container-padding-padding"
-                              style="overflow-wrap:break-word;word-break:break-word;padding:3px 10px 10px;font-family:'Raleway',sans-serif;"
-                              align="left">
+                            <td style="padding-right: 0px;padding-left: 0px;" align="center">
 
-                              <table width="100%" cellpadding="0" cellspacing="0" border="0">
-                                <tr>
-                                  <td style="padding-right: 0px;padding-left: 0px;" align="center">
-
-                                    <img align="center" border="0"
-                                      src="https://neelgai.vercel.app/email-images/image-neelgai.jpg" alt="image"
-                                      title="image"
-                                      style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;border-radius: 10px;float: none;width: 100%;max-width: 280px;"
-                                      width="280" class="v-src-width v-src-max-width" />
-
-                                  </td>
-                                </tr>
-                              </table>
+                              <img align="center" border="0"
+                                src="https://neelgai.vercel.app/email-images/janakpur-hackathon.jpg" alt="image"
+                                title="image"
+                                style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto; border-radius: 10px; float: none;width: 100%;max-width: 280px;"
+                                width="280" class="v-src-width v-src-max-width" />
 
                             </td>
                           </tr>
-                        </tbody>
-                      </table>
+                        </table>
 
-                      <!--[if (!mso)&(!IE)]><!-->
-                    </div><!--<![endif]-->
-                  </div>
-                </div>
-                <!--[if (mso)|(IE)]></td><![endif]-->
-                <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
-                <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-image: url('https://neelgai.vercel.app/email-images/image-9.png');background-repeat: no-repeat;background-position: center top;background-color: transparent !important;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent !important;"><![endif]-->
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
 
-                <!--[if (mso)|(IE)]><td align="center" width="300" class="v-col-background-color" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
-                <div id="u_column_20" class="u-col u-col-50"
-                  style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
-                  <div class="v-col-background-color"
-                    style="height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
-                    <!--[if (!mso)&(!IE)]><!-->
-                    <div
-                      style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
-                      <!--<![endif]-->
+                <!--[if (!mso)&(!IE)]><!-->
+              </div><!--<![endif]-->
+            </div>
+          </div>
+          <!--[if (mso)|(IE)]></td><![endif]-->
+          <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+          <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-image: url('https://neelgai.vercel.app/email-images/image-11.png');background-repeat: no-repeat;background-position: center top;background-color: transparent !important;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent !important;"><![endif]-->
 
-                      <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
-                        cellspacing="0" width="100%" border="0">
-                        <tbody>
-                          <tr>
-                            <td class="v-container-padding-padding"
-                              style="overflow-wrap:break-word;word-break:break-word;padding:4px 10px 0px 25px;font-family:'Raleway',sans-serif;"
-                              align="left">
+          <!--[if (mso)|(IE)]><td align="center" width="300" class="v-col-background-color" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
+          <div id="u_column_26" class="u-col u-col-50"
+            style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+            <div class="v-col-background-color"
+              style="height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+              <!--[if (!mso)&(!IE)]><!-->
+              <div
+                style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+                <!--<![endif]-->
 
-                              <!--[if mso]><table width="100%"><tr><td><![endif]-->
-                              <h1 class="v-line-height v-font-size"
-                                style="margin: 0px; color: #002e9f; line-height: 120%; text-align: left; word-wrap: break-word; font-family: 'Open Sans',sans-serif; font-size: 22px; font-weight: 400;">
-                                <span style="line-height: 26.4px;">About Neelgai</span>
-                              </h1>
-                              <!--[if mso]></td></tr></table><![endif]-->
+                <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
+                  cellspacing="0" width="100%" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="v-container-padding-padding"
+                        style="overflow-wrap:break-word;word-break:break-word;padding:11px 10px 0px 25px;font-family:'Raleway',sans-serif;"
+                        align="left">
 
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
+                        <!--[if mso]><table width="100%"><tr><td><![endif]-->
+                        <h2 class="v-line-height v-font-size"
+                          style="margin: 0px; color: #002e9f; line-height: 140%; text-align: left; word-wrap: break-word; font-family: 'Open Sans',sans-serif; font-size: 20px; font-weight: 400;">
+                          <span>About Janakpur Hackathon</span>
+                        </h2>
+                        <!--[if mso]></td></tr></table><![endif]-->
 
-                      <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
-                        cellspacing="0" width="100%" border="0">
-                        <tbody>
-                          <tr>
-                            <td class="v-container-padding-padding"
-                              style="overflow-wrap:break-word;word-break:break-word;padding:5px 15px 0px 25px;font-family:'Raleway',sans-serif;"
-                              align="left">
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
 
-                              <div class="v-line-height v-font-size"
-                                style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
-                                <p style="line-height: 140%;">Neelgai is an IT company in Janakpur with a mission to
-                                  transform the city into a tech hub. We aim to foster innovation, collaboration, and
-                                  entrepreneurship, empowering the next generation of tech talent in our community.</p>
-                              </div>
+                <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
+                  cellspacing="0" width="100%" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="v-container-padding-padding"
+                        style="overflow-wrap:break-word;word-break:break-word;padding:5px 15px 10px 25px;font-family:'Raleway',sans-serif;"
+                        align="left">
 
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
+                        <div class="v-line-height v-font-size"
+                          style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
+                          <p style="line-height: 140%;">The Janakpur Hackathon is a 48-hour event where
+                            participants address challenges in health-tech, environment, and fintech, fostering
+                            collaboration and innovation within Nepal's tech community.</p>
+                        </div>
 
-                      <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
-                        cellspacing="0" width="100%" border="0">
-                        <tbody>
-                          <tr>
-                            <td class="v-container-padding-padding"
-                              style="overflow-wrap:break-word;word-break:break-word;padding:6px 25px 3px 10px;font-family:'Raleway',sans-serif;"
-                              align="left">
-                              <a href="https://neelgai.com">
-                                <table width="100%" cellpadding="0" cellspacing="0" border="0">
-                                  <tr>
-                                    <td style="padding-right: 0px;padding-left: 0px;" align="right">
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
 
-                                      <img align="right" border="0"
-                                        src="https://neelgai.vercel.app/email-images/image-2.png" alt="image"
-                                        title="image"
-                                        style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 10%;max-width: 26.5px;"
-                                        width="26.5" class="v-src-width v-src-max-width" />
-
-                                    </td>
-                                  </tr>
-                                </table>
-                              </a>
-
-
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-
-                      <!--[if (!mso)&(!IE)]><!-->
-                    </div><!--<![endif]-->
-                  </div>
-                </div>
-
-              </div>
+                <!--[if (!mso)&(!IE)]><!-->
+              </div><!--<![endif]-->
             </div>
           </div>
 
+        </div>
+      </div>
+    </div>
           <!--[if gte mso 9]>
       </v:textbox></v:rect>
     </td>
     </tr>
     </table>
     <![endif]-->
-
-
-
-
-
           <!--[if gte mso 9]>
       <table cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto;min-width: 320px;max-width: 600px;">
         <tr>
@@ -586,7 +530,6 @@ const sponsorsEmailTemplate = () => {
       <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width: 600px;">
         <v:fill type="frame" src="https://cdn.templates.unlayer.com/assets/1721240673031-Group%2015c.png" /><v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
       <![endif]-->
-
           <div class="u-row-container"
             style="padding: 0px;background-image: url('https://neelgai.vercel.app/email-images/image-9.png');background-repeat: no-repeat;background-position: center top;background-color: transparent !important">
             <div class="u-row"
@@ -619,12 +562,10 @@ const sponsorsEmailTemplate = () => {
                                 <span>Our Mission</span>
                               </h1>
                               <!--[if mso]></td></tr></table><![endif]-->
-
                             </td>
                           </tr>
                         </tbody>
                       </table>
-
                       <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
                         cellspacing="0" width="100%" border="0">
                         <tbody>
@@ -644,7 +585,6 @@ const sponsorsEmailTemplate = () => {
                           </tr>
                         </tbody>
                       </table>
-
                       <!--[if (!mso)&(!IE)]><!-->
                     </div><!--<![endif]-->
                   </div>
@@ -659,7 +599,6 @@ const sponsorsEmailTemplate = () => {
                     <div
                       style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
                       <!--<![endif]-->
-
                       <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
                         cellspacing="0" width="100%" border="0">
                         <tbody>
@@ -667,7 +606,6 @@ const sponsorsEmailTemplate = () => {
                             <td class="v-container-padding-padding"
                               style="overflow-wrap:break-word;word-break:break-word;padding:3px 10px 10px;font-family:'Raleway',sans-serif;"
                               align="left">
-
                               <table width="100%" cellpadding="0" cellspacing="0" border="0">
                                 <tr>
                                   <td style="padding-right: 0px;padding-left: 0px;" align="center">
@@ -677,7 +615,6 @@ const sponsorsEmailTemplate = () => {
                                       title="image"
                                       style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 280px;"
                                       width="280" class="v-src-width v-src-max-width" />
-
                                   </td>
                                 </tr>
                               </table>
@@ -686,7 +623,6 @@ const sponsorsEmailTemplate = () => {
                           </tr>
                         </tbody>
                       </table>
-
                       <!--[if (!mso)&(!IE)]><!-->
                     </div><!--<![endif]-->
                   </div>
@@ -696,18 +632,12 @@ const sponsorsEmailTemplate = () => {
               </div>
             </div>
           </div>
-
           <!--[if gte mso 9]>
       </v:textbox></v:rect>
     </td>
     </tr>
     </table>
     <![endif]-->
-
-
-
-
-
           <!--[if gte mso 9]>
       <table cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto;min-width: 320px;max-width: 600px;">
         <tr>
@@ -716,128 +646,147 @@ const sponsorsEmailTemplate = () => {
         <v:fill type="frame" src="https://cdn.templates.unlayer.com/assets/1721240673031-Group%2015c.png" /><v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
       <![endif]-->
 
+          
           <div class="u-row-container"
-            style="padding: 0px;background-image: url('https://neelgai.vercel.app/email-images/image-9.png');background-repeat: no-repeat;background-position: center top;background-color: transparent !important">
-            <div class="u-row"
-              style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent !important;">
-              <div
-                style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent !important;">
-                <!--[if (mso)|(IE)]></td><![endif]-->
-                <!--[if (mso)|(IE)]><td align="center" width="300" class="v-col-background-color" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
-                <div id="u_column_27" class="u-col u-col-50"
-                  style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
-                  <div class="v-col-background-color"
-                    style="height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+          style="padding: 0px;background-image: url('https://neelgai.vercel.app/email-images/image-11.png');background-repeat: no-repeat;background-position: center top;background-color: transparent !important">
+          <div class="u-row"
+            style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent !important;">
+            <div
+              style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent !important;">
+              <!--[if (mso)|(IE)]></td><![endif]-->
+              <!--[if (mso)|(IE)]><td align="center" width="300" class="v-col-background-color" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
+              <div id="u_column_21" class="u-col u-col-50"
+                style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+                <div class="v-col-background-color"
+                  style="height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+                  <!--[if (!mso)&(!IE)]><!-->
+                  <div
+                    style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+                    <!--<![endif]-->
+
+                    <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
+                      cellspacing="0" width="100%" border="0">
+                      <tbody>
+                        <tr>
+                          <td class="v-container-padding-padding"
+                            style="overflow-wrap:break-word;word-break:break-word;padding:3px 10px 10px;font-family:'Raleway',sans-serif;"
+                            align="left">
+
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                              <tr>
+                                <td style="padding-right: 0px;padding-left: 0px;" align="center">
+
+                                  <img align="center" border="0"
+                                    src="https://neelgai.vercel.app/email-images/image-neelgai.jpg" alt="image"
+                                    title="image"
+                                    style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;border-radius: 10px;float: none;width: 100%;max-width: 280px;"
+                                    width="280" class="v-src-width v-src-max-width" />
+
+                                </td>
+                              </tr>
+                            </table>
+
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+
                     <!--[if (!mso)&(!IE)]><!-->
-                    <div
-                      style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
-                      <!--<![endif]-->
+                  </div><!--<![endif]-->
+                </div>
+              </div>
+              <!--[if (mso)|(IE)]></td><![endif]-->
+              <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+              <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-image: url('https://neelgai.vercel.app/email-images/image-11.png');background-repeat: no-repeat;background-position: center top;background-color: transparent !important;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent !important;"><![endif]-->
 
-                      <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
-                        cellspacing="0" width="100%" border="0">
-                        <tbody>
-                          <tr>
-                            <td class="v-container-padding-padding"
-                              style="overflow-wrap:break-word;word-break:break-word;padding:3px 10px 10px;font-family:'Raleway',sans-serif;"
-                              align="left">
+              <!--[if (mso)|(IE)]><td align="center" width="300" class="v-col-background-color" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
+              <div id="u_column_20" class="u-col u-col-50"
+                style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+                <div class="v-col-background-color"
+                  style="height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+                  <!--[if (!mso)&(!IE)]><!-->
+                  <div
+                    style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+                    <!--<![endif]-->
 
+                    <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
+                      cellspacing="0" width="100%" border="0">
+                      <tbody>
+                        <tr>
+                          <td class="v-container-padding-padding"
+                            style="overflow-wrap:break-word;word-break:break-word;padding:4px 10px 0px 25px;font-family:'Raleway',sans-serif;"
+                            align="left">
+
+                            <!--[if mso]><table width="100%"><tr><td><![endif]-->
+                            <h1 class="v-line-height v-font-size"
+                              style="margin: 0px; color: #002e9f; line-height: 120%; text-align: left; word-wrap: break-word; font-family: 'Open Sans',sans-serif; font-size: 22px; font-weight: 400;">
+                              <span style="line-height: 26.4px;">About Neelgai</span>
+                            </h1>
+                            <!--[if mso]></td></tr></table><![endif]-->
+
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+
+                    <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
+                      cellspacing="0" width="100%" border="0">
+                      <tbody>
+                        <tr>
+                          <td class="v-container-padding-padding"
+                            style="overflow-wrap:break-word;word-break:break-word;padding:5px 15px 0px 25px;font-family:'Raleway',sans-serif;"
+                            align="left">
+
+                            <div class="v-line-height v-font-size"
+                              style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
+                              <p style="line-height: 140%;">Neelgai is an IT company in Janakpur with a mission to
+                                transform the city into a tech hub. We aim to foster innovation, collaboration, and
+                                entrepreneurship, empowering the next generation of tech talent in our community.</p>
+                            </div>
+
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+
+                    <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
+                      cellspacing="0" width="100%" border="0">
+                      <tbody>
+                        <tr>
+                          <td class="v-container-padding-padding"
+                            style="overflow-wrap:break-word;word-break:break-word;padding:6px 25px 3px 10px;font-family:'Raleway',sans-serif;"
+                            align="left">
+                            <a href="https://neelgai.com">
                               <table width="100%" cellpadding="0" cellspacing="0" border="0">
                                 <tr>
-                                  <td style="padding-right: 0px;padding-left: 0px;" align="center">
+                                  <td style="padding-right: 0px;padding-left: 0px;" align="right">
 
-                                    <img align="center" border="0"
-                                      src="https://neelgai.vercel.app/email-images/janakpur-hackathon.jpg" alt="image"
+                                    <img align="right" border="0"
+                                      src="https://neelgai.vercel.app/email-images/image-2.png" alt="image"
                                       title="image"
-                                      style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto; border-radius: 10px; float: none;width: 100%;max-width: 280px;"
-                                      width="280" class="v-src-width v-src-max-width" />
-
+                                      style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 10%;max-width: 26.5px;"
+                                      width="26.5" class="v-src-width v-src-max-width" />
                                   </td>
                                 </tr>
                               </table>
-
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-
-                      <!--[if (!mso)&(!IE)]><!-->
-                    </div><!--<![endif]-->
-                  </div>
-                </div>
-                <!--[if (mso)|(IE)]></td><![endif]-->
-                <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
-                <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-image: url('https://neelgai.vercel.app/email-images/image-9.png');background-repeat: no-repeat;background-position: center top;background-color: transparent !important;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent !important;"><![endif]-->
-
-                <!--[if (mso)|(IE)]><td align="center" width="300" class="v-col-background-color" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
-                <div id="u_column_26" class="u-col u-col-50"
-                  style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
-                  <div class="v-col-background-color"
-                    style="height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+                            </a>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
                     <!--[if (!mso)&(!IE)]><!-->
-                    <div
-                      style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
-                      <!--<![endif]-->
-
-                      <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
-                        cellspacing="0" width="100%" border="0">
-                        <tbody>
-                          <tr>
-                            <td class="v-container-padding-padding"
-                              style="overflow-wrap:break-word;word-break:break-word;padding:11px 10px 0px 25px;font-family:'Raleway',sans-serif;"
-                              align="left">
-
-                              <!--[if mso]><table width="100%"><tr><td><![endif]-->
-                              <h2 class="v-line-height v-font-size"
-                                style="margin: 0px; color: #002e9f; line-height: 140%; text-align: left; word-wrap: break-word; font-family: 'Open Sans',sans-serif; font-size: 20px; font-weight: 400;">
-                                <span>About Janakpur Hackathon</span>
-                              </h2>
-                              <!--[if mso]></td></tr></table><![endif]-->
-
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-
-                      <table style="font-family:'Raleway',sans-serif;" role="presentation" cellpadding="0"
-                        cellspacing="0" width="100%" border="0">
-                        <tbody>
-                          <tr>
-                            <td class="v-container-padding-padding"
-                              style="overflow-wrap:break-word;word-break:break-word;padding:5px 15px 10px 25px;font-family:'Raleway',sans-serif;"
-                              align="left">
-
-                              <div class="v-line-height v-font-size"
-                                style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
-                                <p style="line-height: 140%;">The Janakpur Hackathon is a 48-hour event where
-                                  participants address challenges in health-tech, environment, and fintech, fostering
-                                  collaboration and innovation within Nepal's tech community.</p>
-                              </div>
-
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-
-                      <!--[if (!mso)&(!IE)]><!-->
-                    </div><!--<![endif]-->
-                  </div>
+                  </div><!--<![endif]-->
                 </div>
-
               </div>
             </div>
           </div>
-
+        </div>
           <!--[if gte mso 9]>
       </v:textbox></v:rect>
     </td>
     </tr>
     </table>
     <![endif]-->
-
-
-
-
-
           <!--[if gte mso 9]>
       <table cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto;min-width: 320px;max-width: 600px;">
         <tr>
@@ -956,7 +905,7 @@ const sponsorsEmailTemplate = () => {
                           </tbody>
                         </table>
 
-                   
+
 
                         <!--[if (!mso)&(!IE)]><!-->
                       </div><!--<![endif]-->
@@ -994,7 +943,7 @@ const sponsorsEmailTemplate = () => {
                               <!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
                               <div align="center">
                                 <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://neelgai.com/hackathon" style="height:37px; v-text-anchor:middle; width:220px;" arcsize="11%"  stroke="f" fillcolor="#002e9f"><w:anchorlock/><center style="color:#ffffff;font-family: arial black,AvenirNext-Heavy,avant garde,arial; "><![endif]-->
-                                <a href="https://neelgai.vercel.app/email-images/Janakpur-Hackathon Sponsorship.pdf"
+                                <a href="https://docs.google.com/spreadsheets/d/15JYrAe36TfV-zCOTOmGW9Asw1gwqx9okYGR4nS1wj4I"
                                   target="_blank" class="v-button v-size-width v-font-size"
                                   style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #ffffff; background-color: #002e9f; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:38%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-family: arial black,AvenirNext-Heavy,avant garde,arial; font-size: 14px;">
                                   <span class="v-line-height"
@@ -1128,7 +1077,7 @@ const sponsorsEmailTemplate = () => {
                                       <tr style="vertical-align: top">
                                         <td valign="middle"
                                           style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
-                                          <a href="https://www.instagram.com/unlayer_official/" title="Instagram"
+                                          <a href="https://www.instagram.com/neelgaitech?igsh=MXc1ZHFvZGR2c3p6dw==" title="Instagram"
                                             target="_blank">
                                             <img src="https://neelgai.vercel.app/email-images/image-7.png"
                                               alt="Instagram" title="Instagram" width="32"
