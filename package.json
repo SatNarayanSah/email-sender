@@ -12,6 +12,9 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
-    "nodemailer": "^6.9.16"
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.9.16",
+    "pdfkit": "^0.15.1",
+    "puppeteer": "^23.8.0"
   }
 }
