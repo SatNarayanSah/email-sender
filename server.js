@@ -5,6 +5,7 @@ const sponsorsEmailTemplate = require('./email-templates/sponsorsEmailTemplate')
 const createPdf = require('./utils/createAcceptanceEmailPdf');
 const createPdfFromHtml = require('./utils/createAcceptanceEmailPdf');
 const AcceptanceEmailTemplate = require('./email-templates/acceptance-email');
+const RejectionEmailTemplate = require('./email-templates/rejection-email');
 
 require('dotenv').config();
 
@@ -101,6 +102,43 @@ app.post('/send-pdf', async (req, res) => {
     } catch (error) {
         console.error(error);
         res.status(500).json({ error: 'Failed to Create Email' });
+    }
+})
+
+app.post('/reject-participant', async (req, res) => {
+    const { emails, subject } = req.body;
+
+    if (!emails || !Array.isArray(emails) || !subject) {
+        return res.status(400).json({ error: 'Please provide a list of emails' });
+    }
+    try {
+
+        const emailPromises = emails.map(async ({ email, name }) => {
+            const emailTemplate = RejectionEmailTemplate(name);
+            const mailOptions = {
+                from: `Janakpur Hackathon <${process.env.USER}>`,    // Sender address
+                to: email,
+                subject,
+                html: emailTemplate,
+            };
+
+            // Send email and return the promise
+            return transporter.sendMail(mailOptions);
+        });
+
+        const results = await Promise.allSettled(emailPromises);
+
+        const successes = results.filter(result => result.status === 'fulfilled').length;
+        const failures = results.filter(result => result.status === 'rejected').map(result => result.reason);
+
+        res.json({
+            message: `Emails processed: ${successes} sent successfully, ${failures.length} failed.`,
+            failures,
+        });
+
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ error: 'Failed to send emails' });
     }
 })
 
