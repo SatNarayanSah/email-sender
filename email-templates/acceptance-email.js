@@ -1,6 +1,5 @@
 const AcceptanceEmailTemplate = (name) => {
-  return `
- <!DOCTYPE html>
+  return `<!DOCTYPE html>
 <html>
 <head>
   <title>Janakpur Hackathon Acceptance</title>
@@ -25,19 +24,20 @@ const AcceptanceEmailTemplate = (name) => {
     .header {
       text-align: center;
       margin-bottom: 20px;
-      background-color: #007bff;
+      background-color: #3c5573;
       color: white;
       padding: 15px;
       border-radius: 8px 8px 0 0;
     }
     .header h1 {
       margin: 0;
+      font-size: 2em; /* Default size for larger screens */
     }
     .content h3 {
-      color: #007bff;
+      color: #3c5573;
     }
     .highlight {
-      color: #007bff;
+      color: #3c5573;
       font-weight: bold;
     }
     .content ul {
@@ -56,11 +56,18 @@ const AcceptanceEmailTemplate = (name) => {
       border-radius: 0 0 8px 8px;
     }
     a {
-      color: #007bff;
-      text-decoration: none;
+      color: #107bff;
+      text-decoration: underline;
     }
     a:hover {
       text-decoration: underline;
+    }
+
+    /* Media query for smaller devices */
+    @media (max-width: 480px) {
+      .header h1 {
+        font-size: 1.5em; /* Smaller font size for smaller screens */
+      }
     }
   </style>
 </head>
@@ -75,12 +82,12 @@ const AcceptanceEmailTemplate = (name) => {
       <p>We are thrilled to inform you that you have been accepted to participate in the <strong>Janakpur Hackathon</strong>! Your application has been reviewed, and we are excited to welcome you to a thrilling day of innovation, collaboration, and creativity.</p>
       
       <h3>Event Details</h3>
-      <p>The Janakpur Hackathon will be held on <span class="highlight">November 23, 2024</span>, starting at <span class="highlight">8:00 AM</span>, at <span class="highlight">Janak Chowk</span>, marked with a "Janakpur Tech Bootcamp" banner.</p>
+      <p>The Janakpur Hackathon will be held on <span class="highlight">November 23, 2024</span>. Please ensure you arrive at <span class="highlight">7:00 AM</span> at <span class="highlight">Janak Chowk</span>, marked with a "Janakpur Tech Bootcamp" banner.</p>
       
       <h3>Exciting Updates for Participants</h3>
       <ul>
-        <li>All participants will receive <span class="highlight">free SMS API credits</span> and access to the <span class="highlight">Khalti API for payment integration testing</span>, generously provided by Khalti.</li>
         <li>Please ensure you’ve downloaded and reviewed all provided resources such as the rules, Janakpur guide, and schedule (refer to the links below).</li>
+        <li>Access the Janakpur guide <a href="https://neelgai.vercel.app/hackathon/Janakpur%20Hackathon%20Guide.pdf" target="_blank">here</a>.</li>
       </ul>
 
       <h3>Prizes</h3>
@@ -100,13 +107,13 @@ const AcceptanceEmailTemplate = (name) => {
       </ul>
 
       <h3>Day Schedule</h3>
-      <p>Stay on top of the event timeline! Access the complete schedule <a href="https://docs.google.com/spreadsheets/d/1HIEo9EeR5TOZVmoNqvt40saagklVRo9gHC_C7MK42qs/edit?gid=316747807#gid=316747807" target="_blank">here</a>.</p>
+      <p>Stay on top of the event timeline! Access the complete schedule <a href="https://neelgai.vercel.app/hackathon/hackathon%20schedule.png" target="_blank">here</a>.</p>
 
       <h3>Social Media Engagement</h3>
-      <p>Help us spread the word! Share the event flyer on your social media and tag us to participate in a lottery for prizes such as keyboards, mice, and more. (Details will be confirmed by our team.)</p>
+      <p>Help us spread the word! Share the event flyer on your social media and tag us to participate in a lottery for prizes such as keyboards, mouse, and more. (Details will be confirmed by our team.)</p>
       
       <h3>Stay Connected</h3>
-      <p>Follow us on <a href="https://www.facebook.com/profile.php?id=61558400588347" target="_blank">Facebook</a> and <a href="https://www.linkedin.com/company/neelgai" target="_blank">LinkedIn</a> for updates.</p>
+      <p>Follow us on <a href="https://www.facebook.com/profile.php?id=61558400588347" target="_blank">Facebook</a>, <a href="https://www.instagram.com/Neelgaitech/" target="_blank">Instagram</a>, and <a href="https://www.linkedin.com/company/neelgai" target="_blank">LinkedIn</a> for updates.</p>
       
       <p>We can’t wait to see your innovative ideas come to life on <span class="highlight">November 23rd</span>! Should you have any questions, feel free to reach out at any time.</p>
       

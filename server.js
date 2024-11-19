@@ -79,8 +79,8 @@ app.post('/send-pdf', async (req, res) => {
                         path: outputFilePath,
                     },
                     {
-                        filename: 'Flyer.pdf', // Replace with the actual flyer file name
-                        path: './assets/Selection Flyer.pdf', // Replace with the actual flyer file path
+                        filename: 'Hackathon Flyer.png', // Replace with the actual flyer file name
+                        path: './assets/hackathon flyer.png', // Replace with the actual flyer file path
                     },
                 ],
             };

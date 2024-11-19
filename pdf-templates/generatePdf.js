@@ -5,7 +5,7 @@ const generatePdf = async (userName) => {
   try {
     // Paths for assets
     const logoPath = path.join(__dirname, '../assets/logo.png');
-    const signaturePath = path.join(__dirname, '../assets/signature-nandani.png');
+    const signaturePath = path.join(__dirname, '../assets/signature-nandani.jpg');
 
     // Check if the assets exist
     if (!fs.existsSync(logoPath)) {
@@ -91,7 +91,7 @@ const generatePdf = async (userName) => {
       text-align: center;
     }
     .signature img {
-      max-width: 250px;
+      max-width: 70px;
       margin-bottom: 5px;
     }
     .signature p {
@@ -124,7 +124,7 @@ const generatePdf = async (userName) => {
       </p>
       <div class="details">
         <p><strong>Date:</strong> November 23, 2024</p>
-        <p><strong>Time:</strong> Starting at 8:00 AM</p>
+        <p><strong>Arrival Time:</strong> 7:00 AM</p>
         <p><strong>Location:</strong> Janakpur Tech Bootcamp Office, Janak Chowk, Janakpur</p>
       </div>
       <p>
