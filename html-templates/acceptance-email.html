@@ -30,7 +30,7 @@
     }
     .header h1 {
       margin: 0;
-      font-size: 2em; /* Default size for larger screens */
+      font-size: 2em;
     }
     .content h3 {
       color: #3c5573;
@@ -68,12 +68,11 @@
     a:hover {
       text-decoration: underline;
     }
-
-    /* Media query for smaller devices */
-    @media (max-width: 480px) {
-      .header h1 {
-        font-size: 1.5em; /* Smaller font size for smaller screens */
-      }
+    .whatsapp-image {
+      display: block;
+      margin: 10px auto;
+      max-width: 100%;
+      border-radius: 8px;
     }
   </style>
 </head>
@@ -123,8 +122,10 @@
       
       <div class="confirmation">
         <h3>Confirm Your Attendance</h3>
-        <p>To help us finalize the arrangements, please confirm your participation by replying to this email within 24 hours. </p>
-       
+        <p>To help us finalize the arrangements, please confirm your participation by replying to this email within 24 hours or contact us via WhatsApp by clicking the image below:</p>
+        <a href="https://chat.whatsapp.com/EmX5JYySPSC0RdAch15XgL" target="_blank">
+          <img class="whatsapp-image" src="https://i.ibb.co/Xx5C5t1/janakpur-hackathon-QR.jpg" alt="WhatsApp Group">
+        </a>
         <p>If you have any issues confirming your attendance, feel free to reply to this email or contact us directly.</p>
       </div>
 

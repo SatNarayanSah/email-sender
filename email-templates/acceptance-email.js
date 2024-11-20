@@ -31,7 +31,7 @@ const AcceptanceEmailTemplate = (name) => {
     }
     .header h1 {
       margin: 0;
-      font-size: 2em; /* Default size for larger screens */
+      font-size: 2em;
     }
     .content h3 {
       color: #3c5573;
@@ -45,6 +45,13 @@ const AcceptanceEmailTemplate = (name) => {
     }
     .content ul li {
       margin-bottom: 10px;
+    }
+    .confirmation {
+      background-color: #f9fafc;
+      padding: 15px;
+      margin-top: 20px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
     }
     .footer {
       margin-top: 20px;
@@ -62,12 +69,11 @@ const AcceptanceEmailTemplate = (name) => {
     a:hover {
       text-decoration: underline;
     }
-
-    /* Media query for smaller devices */
-    @media (max-width: 480px) {
-      .header h1 {
-        font-size: 1.5em; /* Smaller font size for smaller screens */
-      }
+    .whatsapp-image {
+      display: block;
+      margin: 10px auto;
+      max-width: 100%;
+      border-radius: 8px;
     }
   </style>
 </head>
@@ -82,7 +88,7 @@ const AcceptanceEmailTemplate = (name) => {
       <p>We are thrilled to inform you that you have been accepted to participate in the <strong>Janakpur Hackathon</strong>! Your application has been reviewed, and we are excited to welcome you to a thrilling day of innovation, collaboration, and creativity.</p>
       
       <h3>Event Details</h3>
-      <p>The Janakpur Hackathon will be held on <span class="highlight">November 23, 2024</span>. Please ensure you arrive at <span class="highlight">7:00 AM</span> at <span class="highlight">Janak Chowk at Neelgai Office</span>,also marked with a "Janakpur Tech Bootcamp" banner. The office can also be located either by searching  </p>
+      <p>The Janakpur Hackathon will be held on <span class="highlight">November 23, 2024</span>. Please ensure you arrive at <span class="highlight">7:00 AM</span> at <span class="highlight">Janak Chowk at Neelgai Office</span>, also marked with a "Janakpur Tech Bootcamp" banner. The office can also be located either by searching "<span class="highlight">Neelgai Office Janakpur</span>" in Google or refer to this <a href="https://drive.google.com/file/d/12OPnye0bJvgkGUjtWznbPEdrg3FaXozD/view?usp=drive_link" target="_blank">video</a>.</p>
       
       <h3>Exciting Updates for Participants</h3>
       <ul>
@@ -115,6 +121,15 @@ const AcceptanceEmailTemplate = (name) => {
       <h3>Stay Connected</h3>
       <p>Follow us on <a href="https://www.facebook.com/profile.php?id=61558400588347" target="_blank">Facebook</a>, <a href="https://www.instagram.com/Neelgaitech/" target="_blank">Instagram</a>, and <a href="https://www.linkedin.com/company/neelgai" target="_blank">LinkedIn</a> for updates.</p>
       
+      <div class="confirmation">
+        <h3>Confirm Your Attendance</h3>
+        <p>To help us finalize the arrangements, please confirm your participation by replying to this email within 24 hours or contact us via WhatsApp by clicking the image below:</p>
+        <a href="https://chat.whatsapp.com/EmX5JYySPSC0RdAch15XgL" target="_blank">
+          <img class="whatsapp-image" src="https://i.ibb.co/Xx5C5t1/janakpur-hackathon-QR.jpg" alt="WhatsApp Group">
+        </a>
+        <p>If you have any issues confirming your attendance, feel free to reply to this email or contact us directly.</p>
+      </div>
+
       <p>We can’t wait to see your innovative ideas come to life on <span class="highlight">November 23rd</span>! Should you have any questions, feel free to reach out at any time.</p>
       
       <p><strong>P.S. Please find the acceptance letter and shareable flyer attached.</strong></p>
