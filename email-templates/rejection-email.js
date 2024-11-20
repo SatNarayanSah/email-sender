@@ -1,6 +1,6 @@
 const RejectionEmailTemplate = (name) => {
     return `
-    <!DOCTYPE html>
+   <!DOCTYPE html>
 <html>
 <head>
   <title>Janakpur Hackathon Application Update</title>
@@ -27,7 +27,7 @@ const RejectionEmailTemplate = (name) => {
       margin-bottom: 20px;
     }
     .header h1 {
-      color: #d9534f; /* Red for rejection */
+      color: #3c5573; /* Red for rejection */
     }
     .content {
       text-align: left;
@@ -37,7 +37,6 @@ const RejectionEmailTemplate = (name) => {
       margin-bottom: 15px;
     }
     .highlight {
-      color: #d9534f;
       font-weight: bold;
     }
     .footer {
@@ -47,15 +46,14 @@ const RejectionEmailTemplate = (name) => {
     }
     a {
       color: #007bff;
-      text-decoration: none;
+      text-decoration: underline;
     }
   </style>
 </head>
 <body>
   <div class="container">
     <div class="header">
-      <h1>Application Status: Not Selected</h1>
-      <p>We regret to inform you...</p>
+      <h1>Janakpur Hackathon</h1>
     </div>
     <div class="content">
       <p>Dear <span class="highlight">${name}</span>,</p>
@@ -70,7 +68,7 @@ const RejectionEmailTemplate = (name) => {
       </p>
       <p>
         Stay connected with us for updates and upcoming events by following us on 
-        <a href="https://www.facebook.com/profile.php?id=61558400588347" target="_blank">Facebook</a> and 
+        <a href="https://www.facebook.com/profile.php?id=61558400588347" target="_blank">Facebook</a>, <a href="https://www.instagram.com/Neelgaitech/" target="_blank">Instagram</a>, and 
         <a href="https://www.facebook.com/profile.php?id=61558400588347" target="_blank">LinkedIn</a>.
       </p>
     </div>

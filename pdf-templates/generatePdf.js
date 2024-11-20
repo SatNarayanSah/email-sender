@@ -85,7 +85,7 @@ const generatePdf = async (userName) => {
     }
     .signature-section {
       display: flex;
-      justify-content: flex-end;
+      justify-content: flex-start;
     }
     .signature {
       text-align: center;
