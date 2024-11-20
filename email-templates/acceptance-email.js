@@ -82,7 +82,7 @@ const AcceptanceEmailTemplate = (name) => {
       <p>We are thrilled to inform you that you have been accepted to participate in the <strong>Janakpur Hackathon</strong>! Your application has been reviewed, and we are excited to welcome you to a thrilling day of innovation, collaboration, and creativity.</p>
       
       <h3>Event Details</h3>
-      <p>The Janakpur Hackathon will be held on <span class="highlight">November 23, 2024</span>. Please ensure you arrive at <span class="highlight">7:00 AM</span> at <span class="highlight">Janak Chowk</span>, marked with a "Janakpur Tech Bootcamp" banner.</p>
+      <p>The Janakpur Hackathon will be held on <span class="highlight">November 23, 2024</span>. Please ensure you arrive at <span class="highlight">7:00 AM</span> at <span class="highlight">Janak Chowk at Neelgai Office</span>,also marked with a "Janakpur Tech Bootcamp" banner. The office can also be located either by searching  </p>
       
       <h3>Exciting Updates for Participants</h3>
       <ul>
